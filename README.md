@@ -1,2 +1,2 @@
-# log-c
-fast, customizable and thread-safe logger library in C
+# read-config-c
+Easy reader config file library in C
